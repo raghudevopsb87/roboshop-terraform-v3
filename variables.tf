@@ -23,7 +23,7 @@ variable "components" {
     redis = ""
     catalogue = ""
     cart = ""
-    #user = ""
+    user = ""
     shipping = ""
     payment = ""
   }
